@@ -9,6 +9,10 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
+
+# <p align="center">NLW Valoriza</p>
+
+
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -18,8 +22,6 @@ System to send and receive compliments.
 * Managed SQLite database with TypeORM
 * Managed admin and non-admin users
 * Added new typecript @type for Express.js
-
-## <p align="center">NLW Valoriza</p>
 
 ### Built With
 
